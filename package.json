@@ -1,5 +1,5 @@
 {
-    "sripts":{
+    "scripts":{
         "format": "prettier --write app",
         "start":"http-server"
     },
